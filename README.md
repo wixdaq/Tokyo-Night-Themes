@@ -1,3 +1,4 @@
+# Tokyo Night Themes
 
 This is a list of Tokyo night themes, ports and configs. I have tried to collect as many themes as possible in on place, I have not tried all of them. 
 
@@ -66,7 +67,6 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [gitk](https://github.com/domwalters/gitk-tokyonight) - domWalters
 + [kicad](https://github.com/kevontheweb/tokyo-night-kicad-theme) - kevontheweboper
 + [Godot](https://github.com/cdpude/GodotBeautifier?tab=readme-ov-file#tokyo-night) -cdpude
-+ [Heroic Launcher] - 
 + [Insomnia](https://github.com/pokedotdev/tokyo-night-insomnia) - pokedotdev
 + [JetBrains](https://plugins.jetbrains.com/plugin/25317-tokyo-night-theme) - zeekbyte
 + [Kvantum](https://github.com/0xsch1zo/Kvantum-Tokyo-Night) - 0xsch1zo
