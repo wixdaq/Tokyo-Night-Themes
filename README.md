@@ -4,6 +4,13 @@ This is a list of Tokyo night themes, ports and configs. I have tried to collect
 
 Do you have a Theme that you would like to add to the list? [Email](wixdaq@proton.me) me!  
 
+## Contents
++ [Terminals](###Terminals)
++ [Window Managers](###Window-Managers)
++ [Application Launchers](###Application-Launchers)
++ [Bars and Icons](###Bars-and-Icons)
++ [Apps](###Apps)
+
 ### Terminals 
 
 + [Alacritty](https://github.com/zatchheems/tokyo-night-alacritty-theme) - zatchheems 
@@ -21,7 +28,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Windows Terminal](https://github.com/jiyometrik/tokyonight-windows-terminal) - jiyometrik
 
 
-### Window Managers 
+### Window-Managers 
 
 + [Awesome](https://github.com/micro-hawk/awesomight) - micro-hawk
 + [Bspwm](https://github.com/raexera/tokyo)- raexera 
@@ -32,13 +39,14 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Sway](https://github.com/coodos/sway-dots) - coodos
 + [Tmux](https://github.com/janoamaral/tokyo-night-tmux)- janoamaral 
 
-### Application Launchers 
+### Application-Launchers 
 
 + [Plank](https://www.gnome-look.org/p/1681818) - Fausto-Korpsvart
 + [Rofi](https://github.com/w8ste/Tokyonight-rofi-theme) - w8ste
 + [Ulaucher](https://www.xfce-look.org/p/1681817/) - Fausto-Korpsvart
++ [Wofi](https://github.com/lokesh-krishna/dotfiles/tree/main/tokyo-night/config/wofi) - lokesh-krishna 
 
-### Bars and Icons
+### Bars-and-Icons
 
 + [Polybar](https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/tokyo-night-by-bitterhalt) - bitterhalt
 + [Waybar](https://github.com/stronk-dev/Tokyo-Night-Linux/tree/master/.config/waybar) - stronk-dev
@@ -66,6 +74,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [git-gui](https://github.com/domwalters/git-gui-tokyonight) - domWalters
 + [gitk](https://github.com/domwalters/gitk-tokyonight) - domWalters
 + [kicad](https://github.com/kevontheweb/tokyo-night-kicad-theme) - kevontheweboper
++ [Helix](https://helix-editor.vercel.app/reference/list-of-themes#tokyonight) - Helix
 + [Godot](https://github.com/cdpude/GodotBeautifier?tab=readme-ov-file#tokyo-night) -cdpude
 + [Insomnia](https://github.com/pokedotdev/tokyo-night-insomnia) - pokedotdev
 + [JetBrains](https://plugins.jetbrains.com/plugin/25317-tokyo-night-theme) - zeekbyte
@@ -74,6 +83,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Obsidian](https://github.com/tcmmichaelb139/obsidian-tokyonight) - tcmmichaelb139
 + [Openbox](https://github.com/laggy-tux/tokyo-night-openbox) - laggy-tux
 + [Pomotroid](https://github.com/wixdaq/Pomotroid-Tokyo-Night) - wixdaq
++ [TauonMusicBox](https://github.com/wixdaq/theme) - wixdaq 
 + [VScode](https://github.com/tokyo-night/tokyo-night-vscode-theme) - enkia
 + [Warp](https://github.com/bart-krakowski/warp-tokyo-night) - bart-krakowski 
 
