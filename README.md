@@ -2,7 +2,7 @@
 
 This is a list of Tokyo night themes, ports and configs. I have tried to collect as many themes as possible in on place, I have not tried all of them. 
 
-Do you have a Theme that you would like to add to the list? [Email](wixdaq@proton.me) me!  
+Do you have a Theme that you would like to add to the list? [Email](mailto:wixdaq@proton.me) me!  
 
 ## Contents
 + [Terminals](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#terminals)
@@ -10,6 +10,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Application Launchers](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#application-launchers)
 + [Bars and Icons](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#bars-and-icons)
 + [Apps](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#apps) 
+
 
 ### Terminals 
 
@@ -21,6 +22,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Kitty](https://github.com/davidmathers/tokyo-night-kitty-theme) - davidmathers  
 + [Konsole](https://github.com/boooooooaq/Tokyo-Night-Konsole) - boooooooaq
 + [Termenatior](https://github.com/wojukasz/tokyonight-terminator) - wojukasz
++ [Warp](https://github.com/bart-krakowski/warp-tokyo-night) - bart-krakowski
 
 + [Starship](https://starship.rs/presets/tokyo-night) - Starship
 + [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/tokyo.omp.json) - JanDeDobbeler
@@ -57,7 +59,8 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 
 ### Apps 
 
-+ [Alfred](https://www.alfredapp.com/extras/theme/puSaeqbft2/)  - enkia  
++ [Alfred](https://www.alfredapp.com/extras/theme/puSaeqbft2/) - enkia  
++ [Atom](https://github.com/gicrisf/tokyo-night-syntax) - gicrisf
 + [Amfora](https://github.com/makew0rld/amfora/blob/master/contrib/themes/README.md#tokyo-night) - luetage
 + [bemnu](https://github.com/Arsemy/bemenu-tokyonight/tree/main) - Arsemy
 + [Betterdiscord](https://github.com/ashtrath/Tokyo-Night) - ashtrath
@@ -85,7 +88,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Pomotroid](https://github.com/wixdaq/Pomotroid-Tokyo-Night) - wixdaq
 + [TauonMusicBox](https://github.com/wixdaq/theme) - wixdaq 
 + [VScode](https://github.com/tokyo-night/tokyo-night-vscode-theme) - enkia
-+ [Warp](https://github.com/bart-krakowski/warp-tokyo-night) - bart-krakowski 
++ [Zed](https://github.com/ssaunderss/zed-tokyo-night) - ssaunderss
 
 
 
