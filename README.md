@@ -5,11 +5,11 @@ This is a list of Tokyo night themes, ports and configs. I have tried to collect
 Do you have a Theme that you would like to add to the list? [Email](wixdaq@proton.me) me!  
 
 ## Contents
-+ [Terminals](###Terminals)
-+ [Window Managers](###Window-Managers)
-+ [Application Launchers](###Application-Launchers)
-+ [Bars and Icons](###Bars-and-Icons)
-+ [Apps](###Apps)
++ [Terminals](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#terminals)
++ [Window Managers](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#application-launchers)
++ [Application Launchers](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#application-launchers)
++ [Bars and Icons](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#bars-and-icons)
++ [Apps](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#apps) 
 
 ### Terminals 
 
@@ -28,7 +28,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Windows Terminal](https://github.com/jiyometrik/tokyonight-windows-terminal) - jiyometrik
 
 
-### Window-Managers 
+### Window Managers 
 
 + [Awesome](https://github.com/micro-hawk/awesomight) - micro-hawk
 + [Bspwm](https://github.com/raexera/tokyo)- raexera 
@@ -46,7 +46,7 @@ Do you have a Theme that you would like to add to the list? [Email](wixdaq@proto
 + [Ulaucher](https://www.xfce-look.org/p/1681817/) - Fausto-Korpsvart
 + [Wofi](https://github.com/lokesh-krishna/dotfiles/tree/main/tokyo-night/config/wofi) - lokesh-krishna 
 
-### Bars-and-Icons
+### Bars and Icons
 
 + [Polybar](https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/tokyo-night-by-bitterhalt) - bitterhalt
 + [Waybar](https://github.com/stronk-dev/Tokyo-Night-Linux/tree/master/.config/waybar) - stronk-dev
