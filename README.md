@@ -22,7 +22,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 | :-------------------------------------------- | --------------------------------------------------- | :----------------------------------------------------------- |
 | ![alt text](color-codes/f7768e.gif)`#f7768e`  | ![alt text](color-codes/f7768e.gif)`247, 118, 142`  | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
 | ![alt text](color-codes/ff9e64.gif)`#ff9e64`  | ![alt text](color-codes/ff9e64.gif)`255, 158, 100`  | Number and Boolean constants, Language support constants     |
-| ![alt text](color-codes/e0af68.gif)`#e0af68`  | ![alt text](color-codes/e0af68.gif)224, 175, 104    | Function parameters, Regex character sets, Terminal Yellow   |
+| ![alt text](color-codes/e0af68.gif)`#e0af68`  | ![alt text](color-codes/e0af68.gif)`224, 175, 104`   | Function parameters, Regex character sets, Terminal Yellow   |
 | ![alt image](color-codes/cfc9c2.gif)`#cfc9c2` | ![alt text](color-codes/cfc9c2.gif)`207, 201, 194`  | Parameters inside functions (semantic highlighting only)     |
 | ![alt text](color-codes/9ece6a.gif)`#9ece6a`  | ![alt text](color-codes/9ece6a.gif)`158, 206, 106`  | Strings, CSS class names                                     |
 | ![alt text](color-codes/73daca.gif)`#73daca`  | ![alt text](color-codes/73daca.gif)`115, 218, 202`  | Object literal keys, Markdown links, Terminal Green          |
