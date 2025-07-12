@@ -29,7 +29,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 | ![alt text](color-codes/b4f8f8.gif)`#b4f9f8`  | ![alt text](color-codes/b4f8f8.gif)`180, 249, 248`  | Regex literal strings                                        |
 | ![alt text](color-codes/2ac3de.gif)`#2ac3de`  | ![alt text](color-codes/2ac3de.gif)`42, 195, 222`   | Language support functions, CSS HTML elements                |
 | ![alt text](color-codes/7dcfff.gif)`#7dcfff`  | ![alt text](color-codes/7dcfff.gif)`125, 207, 255`  | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords |
-| ![alt text](color-codes/ 7aa2f7.gif)`#7aa2f7` | ![alt text](color-codes/ 7aa2f7.gif)`122, 162, 247` | Function names, CSS property names, Terminal Blue            |
+| ![alt text](color-codes/7aa2f7.gif)`#7aa2f7`  | ![alt text](color-codes/7aa2f7.gif)`122, 162, 247`  | Function names, CSS property names, Terminal Blue            |
 | ![alt text](color-codes/bb9af7.gif)`#bb9af7`  | ![alt text](color-codes/bb9af7.gif)`187, 154, 247`  | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
 | ![alt text](color-codes/c0caf5.gif)`#c0caf5`  | ![alt text](color-codes/c0caf5.gif)`192, 202, 245`  | Variables, Class names, Terminal White                       |
 | ![alt text](color-codes/a9b1d6.gif)`#a9b1d6`  | ![alt text](color-codes/a9b1d6.gif)`169, 177, 214`  | Editor Foreground                                            |
