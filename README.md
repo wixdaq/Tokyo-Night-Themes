@@ -25,7 +25,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 | ![alt text](color-codes/e0af68.gif)`#e0af68`  | ![alt text](color-codes/e0af68.gif)224, 175, 104    | Function parameters, Regex character sets, Terminal Yellow   |
 | ![alt image](color-codes/cfc9c2.gif)`#cfc9c2` | ![alt text](color-codes/cfc9c2.gif)`207, 201, 194`  | Parameters inside functions (semantic highlighting only)     |
 | ![alt text](color-codes/9ece6a.gif)`#9ece6a`  | ![alt text](color-codes/9ece6a.gif)`158, 206, 106`  | Strings, CSS class names                                     |
-| ![alt text](color-codes/73daca.gif)`#73daca`  | ![alt text](color-codes/#73daca.gif)`115, 218, 202` | Object literal keys, Markdown links, Terminal Green          |
+| ![alt text](color-codes/73daca.gif)`#73daca`  | ![alt text](color-codes/73daca.gif)`115, 218, 202`  | Object literal keys, Markdown links, Terminal Green          |
 | ![alt text](color-codes/b4f8f8.gif)`#b4f9f8`  | ![alt text](color-codes/b4f8f8.gif)`180, 249, 248`  | Regex literal strings                                        |
 | ![alt text](color-codes/2ac3de.gif)`#2ac3de`  | ![alt text](color-codes/2ac3de.gif)`42, 195, 222`   | Language support functions, CSS HTML elements                |
 | ![alt text](color-codes/7dcfff.gif)`#7dcfff`  | ![alt text](color-codes/7dcfff.gif)`125, 207, 255`  | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords |
