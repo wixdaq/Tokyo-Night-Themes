@@ -18,6 +18,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 
 ### Tokyo Night and Tokyo Night Storm
 
+<<<<<<< HEAD
 | **Hex**                                       | **RGB**                                             | **Use**                                                      |
 | :-------------------------------------------- | --------------------------------------------------- | :----------------------------------------------------------- |
 | ![alt text](color-codes/f7768e.gif)`#f7768e`  | ![alt text](color-codes/f7768e.gif)`247, 118, 142`  | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
@@ -38,6 +39,28 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 | ![alt text](color-codes/414868.gif)`#414868`  | ![alt text](color-codes/414868.gif)`65, 72, 104`    | Terminal Black                                               |
 | ![alt text](color-codes/24283b.gif)`#24283b`  | ![alt text](color-codes/24283b.gif)`36, 40, 59`     | Editor Background (Storm)                                    |
 | ![alt text](color-codes/1a1b26.gif)`#1a1b26`  | ![alt text](color-codes/1a1b26.gif)`26, 27, 38`     | Editor Background (Night)                                    |
+=======
+| **Hex**                                       | **RGB**                                                      | **Use**                                                      |
+| :-------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| ![alt text](color-codes/f7768e.gif)`#f7768e`  | ![alt text](color-codes/f7768e.gif)`247, 118, 142`           | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
+| ![alt text](color-codes/ff9e64.gif)`#ff9e64`  | ![alt text](color-codes/ff9e64.gif)`255, 158, 100`           | Number and Boolean constants, Language support constants     |
+| ![alt text](color-codes/e0af68.gif)`#e0af68`  | ![alt text](color-codes/e0af68.gif)224, 175, 104             | Function parameters, Regex character sets, Terminal Yellow   |
+| ![alt image](color-codes/cfc9c2.gif)`#cfc9c2` | ![alt text](color-codes/cfc9c2.gif)`207, 201, 194`           | Parameters inside functions (semantic highlighting only)     |
+| ![alt text](color-codes/9ece6a.gif)`#9ece6a`  | ![alt text](color-codes/9ece6a.gif)`158, 206, 106`           | Strings, CSS class names                                     |
+| ![alt text](color-codes/73daca.gif)`#73daca`  | ![alt text](color-codes/73daca.gif)`115, 218, 202`           | Object literal keys, Markdown links, Terminal Green          |
+| ![alt text](color-codes/b4f8f8.gif)`#b4f9f8`  | ![alt text](color-codes/b4f8f8.gif)`180, 249, 248`           | Regex literal strings                                        |
+| ![alt text](color-codes/2ac3de.gif)`#2ac3de`  | ![alt text](color-codes/2ac3de.gif)`42, 195, 222`            | Language support functions, CSS HTML elements                |
+| ![alt text](color-codes/7dcfff.gif)`#7dcfff`  | <img src="color-codes/7dcfff.gif" alt="alt text" style="zoom:80%;" />`125, 207, 255` | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords |
+| ![alt text](color-codes/7aa2f7.gif)`#7aa2f7`  | ![alt text](color-codes/7aa2f7.gif)`122, 162, 247`           | Function names, CSS property names, Terminal Blue            |
+| ![alt text](color-codes/bb9af7.gif)`#bb9af7`  | ![alt text](color-codes/bb9af7.gif)`187, 154, 247`           | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
+| ![alt text](color-codes/c0caf5.gif)`#c0caf5`  | ![alt text](color-codes/c0caf5.gif)`192, 202, 245`           | Variables, Class names, Terminal White                       |
+| ![alt text](color-codes/a9b1d6.gif)`#a9b1d6`  | ![alt text](color-codes/a9b1d6.gif)`169, 177, 214`           | Editor Foreground                                            |
+| ![alt text](color-codes/9aa5ce.gif)`#9aa5ce`  | ![alt text](color-codes/9aa5ce.gif)`154, 165, 206`           | Markdown Text, HTML Text                                     |
+| ![alt text](color-codes/565f89.gif)`#565f89`  | ![alt text](color-codes/565f89.gif)`86, 95, 137`             | Comments                                                     |
+| ![alt text](color-codes/414868.gif)`#414868`  | ![alt text](color-codes/414868.gif)`65, 72, 104`             | Terminal Black                                               |
+| ![alt text](color-codes/24283b.gif)`#24283b`  | ![alt text](color-codes/24283b.gif)`36, 40, 59`              | Editor Background (Storm)                                    |
+| ![alt text](color-codes/1a1b26.gif)`#1a1b26`  | ![alt text](color-codes/1a1b26.gif)`26, 27, 38`              | Editor Background (Night)                                    |
+>>>>>>> d908277 (Fixed Formating)
 
 ### Tokyo Night Light
 
