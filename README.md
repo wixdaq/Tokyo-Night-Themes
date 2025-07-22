@@ -80,7 +80,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 + [Starship](https://starship.rs/presets/tokyo-night) - Starship
 + [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/tokyo.omp.json) - JanDeDobbeler
 
-+ [Windows Terminal](https://github.com/jiyometrik/tokyonight-windows-terminal) - jiyometrik
+
 
 
 ### Window Managers 
