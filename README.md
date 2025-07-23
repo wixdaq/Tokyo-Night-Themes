@@ -118,7 +118,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 + [Alfred](https://www.alfredapp.com/extras/theme/puSaeqbft2/) - enkia  
 + [Atom](https://github.com/gicrisf/tokyo-night-syntax) - gicrisf
 + [Amfora](https://github.com/makew0rld/amfora/blob/master/contrib/themes/README.md#tokyo-night) - luetage
-+ [bemnu](https://github.com/Arsemy/bemenu-tokyonight/tree/main) - Arsemy
++ [bemenu](https://github.com/Arsemy/bemenu-tokyonight/tree/main) - Arsemy
 + [Betterdiscord](https://github.com/ashtrath/Tokyo-Night) - ashtrath
 + [binaryninja](https://github.com/Vector35/community-themes/blob/master/tokyo-night-storm.bntheme) - CX330Blake
 + [Brave](https://github.com/gaurishhs/tokyonight-brave/) - gaurishhs
