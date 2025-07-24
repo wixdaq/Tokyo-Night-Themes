@@ -93,6 +93,7 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 + [KDE](https://github.com/nonetrix/tokyonight-kde) -nonetrix
 + [Sway](https://github.com/coodos/sway-dots) - coodos
 + [Xresources](https://github.com/folke/tokyonight.nvim/tree/main/extras/xresources) - folke
++ [Openbox](https://github.com/laggy-tux/tokyo-night-openbox) - laggy-tux
 
 ### Application Launchers 
 
@@ -147,7 +148,6 @@ This is a copy of the color pallete of [enkias](https://github.com/tokyo-night/t
 + [Neovim](https://github.com/folke/tokyonight.nvim)- folke
 + [MarkEdit](https://github.com/MarkEdit-app/MarkEdit-theme-tokyo-night) - MarkEdit-app
 + [Obsidian](https://github.com/tcmmichaelb139/obsidian-tokyonight) - tcmmichaelb139
-+ [Openbox](https://github.com/laggy-tux/tokyo-night-openbox) - laggy-tux
 + [Pomotroid](https://github.com/wixdaq/Pomotroid-Tokyo-Night) - wixdaq
 + [prism](https://github.com/folke/tokyonight.nvim/tree/main/extras/prism) - folke
 + [proccess-compose](https://github.com/folke/tokyonight.nvim/tree/main/extras/process_compose) - folke
