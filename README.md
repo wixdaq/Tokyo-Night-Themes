@@ -4,6 +4,8 @@ This is a list of Tokyo night themes, ports and configs. I have tried to collect
 
 Do you have a Theme that you would like to add to the list? [Email](mailto:wixdaq@proton.me) me!  
 
+Made a website for this list and palettes. [Check it out](https://wixdaq.github.io/Tokyo-Night-Website/)
+
 ## Contents
 
 + [Color Palette](https://github.com/wixdaq/Tokyo-Night-Themes?tab=readme-ov-file#color-palette)
